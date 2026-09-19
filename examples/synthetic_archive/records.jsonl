@@ -1,0 +1,4 @@
+{"id":"record-001","title":"First bounded importer","summary":"A prototype imported three synthetic notes and recorded a source path for every item.","date":"2025-03-12","sources":["evidence/importer/run-001.json"],"tags":["import","provenance"]}
+{"id":"record-002","title":"Validator added","summary":"Cross-reference validation began rejecting groups that pointed at missing records.","date":"2025-05-04","sources":["evidence/validator/test-report.json"],"tags":["validation","evidence"]}
+{"id":"record-003","title":"Offline museum generated","summary":"The archive became a dependency-free HTML view with searchable records and eras.","date":"2025-08-19","sources":["evidence/museum/build-summary.json"],"tags":["offline","visualization"]}
+{"id":"record-004","title":"Lineage made explicit","summary":"Supersession and adjacency were stored as data instead of inferred from prose.","date":"2025-09-02","sources":["evidence/lineage/review.md"],"tags":["lineage","governance"]}

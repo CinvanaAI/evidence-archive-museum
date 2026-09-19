@@ -1,0 +1,5 @@
+{
+  "importer": {"status": "superseded", "successor": "validator", "notes": "The importer remains as lineage evidence."},
+  "validator": {"status": "active", "successor": "", "notes": "The contract remains reusable."},
+  "museum": {"status": "active", "successor": "", "notes": "Current public projection."}
+}

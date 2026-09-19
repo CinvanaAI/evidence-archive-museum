@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evidence-archive-museum"
+version = "1.0.0"
+description = "Build a validated, self-contained offline museum from provenance-backed archive records."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE.md"]
+
+[project.scripts]
+evidence-archive-museum = "evidence_archive_museum.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["evidence_archive_museum*"]

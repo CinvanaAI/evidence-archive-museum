@@ -1,0 +1,23 @@
+[
+  {
+    "id": "importer",
+    "title": "Importer",
+    "narrative": "The first experiment established bounded intake and source-addressed evidence.",
+    "record_ids": ["record-001"],
+    "adjacent": ["validator"]
+  },
+  {
+    "id": "validator",
+    "title": "Validator",
+    "narrative": "Validation turned archive structure from convention into an enforced contract.",
+    "record_ids": ["record-002"],
+    "adjacent": ["importer", "museum"]
+  },
+  {
+    "id": "museum",
+    "title": "Museum",
+    "narrative": "The final renderer makes records, eras, dispositions, and lineage explorable offline.",
+    "record_ids": ["record-003", "record-004"],
+    "adjacent": ["validator"]
+  }
+]

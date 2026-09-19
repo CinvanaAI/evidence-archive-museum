@@ -1,0 +1,18 @@
+[
+  {
+    "id": "foundation",
+    "title": "Foundation",
+    "summary": "Intake and validation established the evidence contract.",
+    "start": "2025-03-01",
+    "end": "2025-06-30",
+    "group_ids": ["importer", "validator"]
+  },
+  {
+    "id": "publication",
+    "title": "Publication",
+    "summary": "The archive gained a public-facing offline projection and explicit lineage.",
+    "start": "2025-07-01",
+    "end": "2025-12-31",
+    "group_ids": ["museum"]
+  }
+]
