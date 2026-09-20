@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "evidence-archive-museum"
-version = "1.0.0"
+version = "1.1.0"
 description = "Build a validated, self-contained offline museum from provenance-backed archive records."
 readme = "README.md"
 requires-python = ">=3.11"
